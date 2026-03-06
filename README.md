@@ -3,7 +3,7 @@ I am a Python Systems Engineer passionate about building reliable software syste
 <h1 align="center">Daniel Carter</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=CorePySystems+Hacking+Engineer;Automation+Developer;Backend+Architecture;Building+Scalable+Software+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Badshah+Python+Hacking+Engineer;Automation+Developer;Backend+Architecture;Building+Scalable+Software+Systems" />
 </p>
 
 Through this GitHub profile, I share projects related to backend development, automation frameworks, system tools, and Python engineering experiments. These repositories highlight practical programming techniques, structured development practices, and real-world software engineering concepts.
